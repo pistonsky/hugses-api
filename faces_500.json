@@ -1,0 +1,44 @@
+[
+  {
+    "id": 77,
+    "image_url": "https://pistonsky.github.io/hugses-api/images/77.jpg",
+    "distance": 240,
+    "name": "Olly",
+    "color": "#9eff70"
+  },
+  {
+    "id": 214,
+    "image_url": "https://pistonsky.github.io/hugses-api/images/214.jpg",
+    "distance": 280,
+    "name": "Lu",
+    "color": "#fffd8f"
+  },
+  {
+    "id": 37,
+    "image_url": "https://pistonsky.github.io/hugses-api/images/37.jpg",
+    "distance": 300,
+    "name": "Daria",
+    "color": "#03a9f4"
+  },
+  {
+    "id": 52,
+    "image_url": "https://pistonsky.github.io/hugses-api/images/52.jpg",
+    "distance": 200,
+    "name": "Ksana",
+    "color": "#009688"
+  },
+  {
+    "id": 707,
+    "image_url": "https://pistonsky.github.io/hugses-api/images/707.jpg",
+    "distance": 420,
+    "name": "Mary Jane",
+    "color": "#673ab7"
+  },
+  {
+    "id": 715,
+    "image_url": "https://pistonsky.github.io/hugses-api/images/715.jpg",
+    "distance": 450,
+    "name": "Roxy",
+    "color": "#2196f3"
+  }
+]

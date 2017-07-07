@@ -30,14 +30,14 @@
   {
     "id": 707,
     "image_url": "https://pistonsky.github.io/hugses-api/images/707.jpg",
-    "distance": 520,
+    "distance": 420,
     "name": "Mary Jane",
     "color": "#673ab7"
   },
   {
     "id": 715,
     "image_url": "https://pistonsky.github.io/hugses-api/images/715.jpg",
-    "distance": 550,
+    "distance": 450,
     "name": "Roxy",
     "color": "#2196f3"
   }
