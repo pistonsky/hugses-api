@@ -1,0 +1,38 @@
+[
+  {
+    "id": 37,
+    "image_url": "https://scontent-sin6-2.xx.fbcdn.net/v/t1.0-1/c24.0.200.200/p200x200/16298788_10154561200873863_5309394971904042698_n.jpg?oh=abb522e2c25416488db58e9bcdb31b89&amp;oe=59C425BE",
+    "distance": 300,
+    "name": "Daria"
+  },
+  {
+    "id": 52,
+    "image_url": "https://scontent-sin6-2.xx.fbcdn.net/v/t1.0-1/c0.63.586.586/s200x200/18835881_1429050657150941_1421118959682806471_n.jpg?oh=2a7dafc3fa126413116a751d200ffebb&amp;oe=5A0B329E",
+    "distance": 200,
+    "name": "Ksana"
+  },
+  {
+    "id": 123,
+    "image_url": "https://scontent-sin6-2.xx.fbcdn.net/v/t1.0-1/15230778_1265739446798150_785541600668710970_n.jpg?oh=95910b7c596fb68c41d56e738aadfbfd&amp;oe=59CD349C",
+    "distance": 150,
+    "name": "Stacy"
+  },
+  {
+    "id": 214,
+    "image_url": "https://scontent-sin6-2.xx.fbcdn.net/v/t1.0-1/p200x200/18402975_1409110339148754_1746763306598472187_n.jpg?oh=cfeddb55c712812370853a36eef10f46&amp;oe=5A069A8D",
+    "distance": 280,
+    "name": "Lu"
+  },
+  {
+    "id": 43,
+    "image_url": "https://scontent-sin6-2.xx.fbcdn.net/v/t1.0-1/p200x200/11081471_10206335884618901_3239429708579574373_n.jpg?oh=902c2d443f224351361d1b863bc224cf&amp;oe=5A0CE436",
+    "distance": 650,
+    "name": "Sasha"
+  },
+  {
+    "id": 77,
+    "image_url": "https://scontent-sin6-2.xx.fbcdn.net/v/t1.0-1/c0.0.200.200/p200x200/12814097_1593068217620810_5350143166499308165_n.jpg?oh=e3a7dddbce1c063d62b4a06547c28b0f&amp;oe=5A108A00",
+    "distance": 540,
+    "name": "Olly"
+  }
+]
