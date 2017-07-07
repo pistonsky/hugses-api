@@ -1,0 +1,38 @@
+[
+  {
+    "id": 37,
+    "image_url": "https://pistonsky.github.io/hugses-api/images/37.jpg",
+    "distance": 300,
+    "name": "Daria"
+  },
+  {
+    "id": 52,
+    "image_url": "https://pistonsky.github.io/hugses-api/images/52.jpg",
+    "distance": 200,
+    "name": "Ksana"
+  },
+  {
+    "id": 123,
+    "image_url": "https://pistonsky.github.io/hugses-api/images/123.jpg",
+    "distance": 150,
+    "name": "Stacy"
+  },
+  {
+    "id": 214,
+    "image_url": "https://pistonsky.github.io/hugses-api/images/214.jpg",
+    "distance": 280,
+    "name": "Lu"
+  },
+  {
+    "id": 43,
+    "image_url": "https://pistonsky.github.io/hugses-api/images/43.jpg",
+    "distance": 650,
+    "name": "Sasha"
+  },
+  {
+    "id": 77,
+    "image_url": "https://pistonsky.github.io/hugses-api/images/77.jpg",
+    "distance": 540,
+    "name": "Olly"
+  }
+]
